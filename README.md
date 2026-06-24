@@ -4,21 +4,22 @@ Este repositorio contiene un proyecto end-to-end de ciencia de datos aplicado al
 
 ## Objetivo
 
-Analizar los datos de ventas de tiendas, preparar la informaci髇, entrenar un modelo predictivo con Random Forest y presentar resultados mediante visualizaciones y dashboard interactivo.
+Analizar los datos de ventas de tiendas, preparar la informaci贸n, entrenar un modelo predictivo con Random Forest y presentar resultados mediante visualizaciones y dashboard interactivo.
 
 ## Estructura del proyecto
 
 - data/raw/: dataset original.
-- data/processed/: datos procesados generados durante el an醠isis.
+- data/processed/: datos procesados generados durante el an谩lisis.
 - 
 otebooks/: notebook principal del proyecto.
 - src/: scripts auxiliares del proyecto.
 - dashboard/: archivos relacionados con el dashboard en Dash.
-- docs/: documentaci髇 del proyecto.
-- eports/: reportes o resultados finales.
-- ssets/: im醙enes o recursos visuales.
+- docs/: documentaci贸n del proyecto.
+- 
+eports/: reportes o resultados finales.
+- Assets/: im谩genes o recursos visuales.
 
-## Tecnolog韆s utilizadas
+## Tecnolog铆as utilizadas
 
 - Python
 - Pandas
@@ -32,8 +33,8 @@ otebooks/: notebook principal del proyecto.
 
 ## Modelo utilizado
 
-Se utiliza Random Forest por su capacidad para trabajar con variables num閞icas y categ髍icas codificadas, capturar relaciones no lineales y entregar un buen rendimiento sin requerir supuestos estad韘ticos estrictos.
+Se utiliza Random Forest por su capacidad para trabajar con variables num茅ricas y categ贸ricas codificadas, capturar relaciones no lineales y entregar un buen rendimiento sin requerir supuestos estad铆sticos estrictos.
 
 ## Autor
 
-Proyecto desarrollado para evaluaci髇 acad閙ica.
+Proyecto desarrollado para evaluaci贸n acad茅mica.
